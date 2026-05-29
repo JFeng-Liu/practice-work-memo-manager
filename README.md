@@ -19,7 +19,7 @@ A simple desktop memo app built with Python tkinter. Write, search, and organize
 
 ### Option 1: Run the .exe (no Python needed)
 
-Download `MemoManager.exe` from the [Releases](https://github.com) page and double-click it.
+Download `MemoManager.exe` from the [Releases](https://github.com/JFeng-Liu/practice-work-memo-manager/releases) page and double-click it.
 
 ### Option 2: Run with Python
 

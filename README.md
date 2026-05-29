@@ -2,7 +2,7 @@
 
 A simple desktop memo app built with Python tkinter. Write, search, and organize work memos — all saved locally as a JSON file.
 
-> **Vibecoding Practice Project** — this app was built entirely by an AI assistant ([Claude Code](https://claude.ai/code)). No human wrote a single line of code.
+> **Vibe Coding Practice Project** — this app was built entirely by an AI assistant ([Claude Code](https://claude.ai/code)). No human wrote a single line of code.
 
 ![Screenshot](screenshots/memo-manager.png)
 
